@@ -8,7 +8,7 @@
 }
 p {
   font-family: 'Poppins', sans-serif;
-}
+} 
 
 .header {
   min-height: 100vh;
@@ -364,7 +364,7 @@ nav .fa {
 .sub-header {
   height: 70vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url('../Images/banner-abouUs.jpg');
+  background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url('../Images/aboutUs/banner-abouUs.jpg');
   background-position: center;
   background-size: cover;
   text-align: center;
