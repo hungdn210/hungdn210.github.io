@@ -515,7 +515,7 @@ nav .fa {
   transform-origin: bottom right;
 }
 .photo-container::before {
-  background: linear-gradient(transparent, rgba(67, 17, 51, 0.5), #000320);
+  background: linear-gradient(transparent, rgba(67, 17, 1, 0.5), #000320);
   content: '';
   position: absolute;
   top: 0;
